@@ -1,89 +1,34 @@
 # ls_multicharacter
 
-A modern multicharacter system for FiveM built for QBCore servers.
+A premium multicharacter script for FiveM, built for QBCore servers.
 
-ls_multicharacter gives players a smooth and immersive character selection experience with support for multiple character slots, character preview, and clean server loading flow. It is designed for servers that want a simple, polished, and customizable multicharacter resource.
+## Coming Soon
 
-## Features
+ls_multicharacter is an upcoming premium script designed to deliver a polished and immersive character selection experience for serious roleplay servers.
 
-- Multi character support
-- Clean character selection UI
-- Character preview system
-- Character creation and deletion
-- Smooth loading and selection flow
-- QBCore-based structure
-- Easy to customize
+Built with presentation, flexibility, and smooth player flow in mind, this resource is currently being prepared for commercial release.
 
 ## Preview
 
-Add your preview images or GIFs here.
+Take a first look at **ls_multicharacter** through the current development preview below.
 
-```md
+### Screenshots
 
+<img width="1584" height="1001" alt="ls_multicharacter preview 1" src="https://github.com/user-attachments/assets/a75e0663-92d5-4df5-b432-8f33c4006146" />
 
-```
+<img width="1605" height="994" alt="ls_multicharacter preview 2" src="https://github.com/user-attachments/assets/83c8ba22-951a-4d1a-b33a-11759b9d6528" />
 
-## Requirements
+### Showcase
 
-- qb-core
-- qb-spawn
-- qb-clothing or any compatible appearance resource
-- qb-apartments (optional)
-- qb-weathersync (optional)
+A full showcase video and additional product media are coming soon.
 
-## Installation
+## What to Expect
 
-1. Download or place the resource in your `resources` folder.
-2. Rename the folder to `ls_multicharacter`.
-3. Add the resource to your `server.cfg`.
+- Premium multicharacter experience
+- Clean and immersive presentation
+- QBCore-focused integration
+- Character preview system
+- Smooth selection flow
+- Commercial release quality
 
-```cfg
-ensure qb-core
-ensure ls_multicharacter
-```
-
-4. Make sure your required dependencies are started before this resource.
-5. Restart the server.
-
-## Configuration
-
-All main settings can be adjusted from the config file.
-
-You can customize things like:
-
-- Character slot amount
-- Character selection behavior
-- Delete button access
-- Preview positions
-- Camera behavior
-- Spawn flow
-- UI options
-
-## Usage
-
-When a player joins the server, the multicharacter menu opens automatically.
-
-From the menu, players can:
-
-- Select an existing character
-- Create a new character
-- Delete a character if enabled
-- Continue into the server with the selected identity
-
-## Notes
-
-- Make sure all required dependencies are installed and started correctly.
-- If you use a custom clothing or appearance system, adjust the integration to match your server.
-- If you rename the resource, update all related references in your server files.
-
-## Support
-
-For support, bug reports, or suggestions, open an issue or contact the project owner.
-
-## Credits
-
-Developed for FiveM QBCore servers.
-
-## License
-
-This project is provided as-is unless stated otherwise by the author.
+Stay tuned for more information, showcase media, feature breakdowns, and release details.
